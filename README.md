@@ -89,7 +89,7 @@ Tema: Cap 13 y 14 del libro Principios de circuitos eléctricos Thomas L. Floyd 
 ![image](https://user-images.githubusercontent.com/116761073/217383467-214a6010-2e59-4ce1-adbf-1d69a48eb1ed.png)
 
 # 4. Vídeo
-
+https://www.youtube.com/watch?v=iOtfPV1wYjc&t=3s
 # 5. Conclusiones
 
 En conclusión, una carga conectada a través del devanado secundario de un transformador parece tener una resistencia que no es igual a la resistencia real de la carga. La carga real por así decirlo se refleja en el lado primario conforme lo determina la relación de vueltas. Y esta carga reflejada es lo que la fuente primaria ve efectivamente, y va a ser la que determina la cantidad de corriente en el primario.
